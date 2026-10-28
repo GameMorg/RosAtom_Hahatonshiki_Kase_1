@@ -1,4 +1,0 @@
-{"name": "pinn_small", "width": 64, "depth": 4, "act": "silu", "fourier": 16, "fourier_scale": 2.0,
- "epochs": 150, "batch": 4096, "lr": 3e-3, "lr_min": 1e-5,
- "lam_mech": 1.0, "lam_therm": 1.0, "lam_sound": 0.1, "lam_maxwell": 1e-4,
- "n_colloc": 2048, "warmup_frac": 0.2}

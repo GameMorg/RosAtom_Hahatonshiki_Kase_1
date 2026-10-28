@@ -1,2 +1,0 @@
-{"name": "vanilla", "width": 128, "depth": 5, "act": "silu", "fourier": 32, "fourier_scale": 2.0,
- "epochs": 300, "batch": 4096, "lr": 2e-3, "lr_min": 1e-5}
