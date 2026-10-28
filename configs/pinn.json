@@ -1,0 +1,5 @@
+{"name": "pinn", "width": 128, "depth": 5, "act": "silu", "fourier": 32, "fourier_scale": 2.0,
+ "epochs": 100, "batch": 4096, "lr": 1e-4, "lr_min": 1e-6,
+ "lam_mech": 1.0, "lam_therm": 1.0, "lam_sound": 0.1, "lam_maxwell": 1e-4,
+ "n_colloc": 2048, "warmup_frac": 0.0,
+ "init_from": "artifacts/models/sweep/pinn_lamM_0.0001.pt"}
