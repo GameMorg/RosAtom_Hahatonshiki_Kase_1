@@ -1,0 +1,3 @@
+[pinn_consistent] ep    1 loss 2.442e-01 data 3.665e-03 mech 6.9e-04 therm 2.3e-02 sound 0.0e+00 maxw 1.36e-01 conv 1.6e-01 | val P 19.498% E 41.727% | 19s
+[pinn_consistent] ep   10 loss 4.061e-02 data 7.993e-03 mech 4.7e-05 therm 5.3e-05 sound 1.2e-06 maxw 3.36e-02 conv 2.9e-02 | val P 23.596% E 38.401% | 218s
+[pinn_consistent] ep   20 loss 3.236e-02 data 6.345e-03 mech 8.8e-05 therm 5.6e-06 sound 1.3e-05 maxw 3.83e-02 conv 2.2e-02 | val P 20.047% E 32.507% | 399s
