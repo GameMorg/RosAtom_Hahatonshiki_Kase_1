@@ -1,0 +1,5 @@
+{"name": "pinn_consistent", "width": 128, "depth": 5, "act": "silu", "fourier": 32, "fourier_scale": 2.0,
+ "epochs": 60, "batch": 4096, "lr": 2e-4, "lr_min": 1e-6,
+ "lam_mech": 3.0, "lam_therm": 3.0, "lam_sound": 0.1, "lam_maxwell": 0.1, "lam_conv": 1.0,
+ "n_colloc": 4096, "warmup_frac": 0.0,
+ "init_from": "artifacts/models/sweep/pinn_lamM_0.1.pt"}
